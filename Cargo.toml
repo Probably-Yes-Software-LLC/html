@@ -1,0 +1,21 @@
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃ Copyright © 2023 Probably Yes Software LLC - CC-BY-SA-4.0           ┃
+# ┃ Author: Conner Blair <conner@probablyyes.software>                  ┃
+# ┠─────────────────────────────────────────────────────────────────────┨
+# ┃ This library is made available for public use under the             ┃
+# ┃ Creative Commons Attribution Share Alike 4.0 International license. ┃
+# ┃ See the top level file 'LICENSE' for more information.              ┃
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+[package]
+name = "html"
+
+authors      = ["Conner Blair <conner@probablyyes.software>"]
+description  = "HTML generation."
+edition      = "2021"
+license      = "CC-BY-SA-4.0"
+publish      = false
+readme       = "README.md"
+repository   = "https://github.com/Probably-Yes-Software-LLC/html"
+rust-version = "1.69.0"
+version      = "0.1.0"

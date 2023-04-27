@@ -1,0 +1,16 @@
+{
+    "License Header": {
+        "prefix": "license header",
+        "body": [
+            "$LINE_COMMENT ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓",
+            "$LINE_COMMENT ┃ Copyright © $CURRENT_YEAR Probably Yes Software LLC - CC-BY-SA-4.0           ┃",
+            "$LINE_COMMENT ┃ Author: Conner Blair <conner@probablyyes.software>                  ┃",
+            "$LINE_COMMENT ┠─────────────────────────────────────────────────────────────────────┨",
+            "$LINE_COMMENT ┃ This library is made available for public use under the             ┃",
+            "$LINE_COMMENT ┃ Creative Commons Attribution Share Alike 4.0 International license. ┃",
+            "$LINE_COMMENT ┃ See the top level file 'LICENSE' for more information.              ┃",
+            "$LINE_COMMENT ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+            "$0"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃ Copyright © 2023 Probably Yes Software LLC - CC-BY-SA-4.0           ┃
+# ┃ Author: Conner Blair <conner@probablyyes.software>                  ┃
+# ┠─────────────────────────────────────────────────────────────────────┨
+# ┃ This library is made available for public use under the             ┃
+# ┃ Creative Commons Attribution Share Alike 4.0 International license. ┃
+# ┃ See the top level file 'LICENSE' for more information.              ┃
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+max_width                = 100
+newline_style            = "Native"
+reorder_modules          = true
+use_field_init_shorthand = true
+use_try_shorthand        = true
+
+# Nightly Only
+fn_single_line      = false
+group_imports       = "StdExternalCrate"
+hex_literal_case    = "Upper"
+imports_granularity = "Crate"
+reorder_impl_items  = true
+trailing_comma      = "Never"
+unstable_features   = true
